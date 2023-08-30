@@ -1,1 +1,1 @@
-# schoolapp-jsp-maven
+# schoolapp-jsp-maven-mysql
